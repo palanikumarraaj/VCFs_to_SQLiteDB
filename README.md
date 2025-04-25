@@ -31,7 +31,9 @@
 Below are the information about output files:
 
 > variants.db is the SQLite file as the required output
+
 > merged.vcf.gz is the intermediate combined .vcf file, used for any analysis
+
 > merged.vcf_table_stage1.1.csv is the input file to prepare .db output file
 
 ## Usage 
@@ -43,3 +45,9 @@ Copy the script to the location of .VCF files and run directly.
 
 ## Model output for example :
 
+
+Below is the model terminal output you can expect from the script.
+
+ ![](SQLite_output.png)
+
+## Thank you
